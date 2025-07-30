@@ -2,21 +2,21 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">💡About Me💡</h2>
 
 ###
 
-<br clear="both">
-
 <p align="left">✨ Creating bugs since 2024  <br>📚 Currently diving into the world of Software Engineering<br>🎯 Goals: Become a full-stack wizard 🧙‍♂️ (maybe)  <br>🧊 Fun fact: Certified Billie Eilish enjoyer</p>
+
+<br clear="both">
 
 ###
 
 <h2 align="left">⚙️ Technologies & Languages ⚙️</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="15" />
@@ -61,8 +59,6 @@
 <h2 align="left">💠My Network 💠</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://discord.gg/wwFv3gHAJN" target="_blank">
@@ -84,6 +80,8 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">✍️ Most Used Languages ✍️</h2>
 
 ###
@@ -100,17 +98,15 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luk4Dev/Luk4Dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luk4Dev/Luk4Dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Luk4Dev/Luk4Dev/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <br clear="both">
+
+###
 
 <h2 align="left">🎵 Spotify 🎵</h2>
 
