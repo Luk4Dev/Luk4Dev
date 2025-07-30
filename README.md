@@ -1,4 +1,3 @@
-<br clear="both">
 <h1 align="left">👋 nice to meet you, i'm lucca</h1>
 
 ###
