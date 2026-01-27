@@ -67,7 +67,7 @@
   <a href="https://www.instagram.com/luk4.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="50" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/@LugaBeluga-i4u" target="_blank">
+  <a href="https://www.youtube.com/@Luk4Dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="50" alt="youtube logo"  />
   </a>
   <a href="https://x.com/luk4_dev" target="_blank">
