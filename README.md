@@ -73,7 +73,7 @@
   <a href="https://x.com/luk4_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="50" alt="twitter logo"  />
   </a>
-  <a href="[www.linkedin.com/in/lucca-pereira-dev](https://www.linkedin.com/in/lucca-pereira-dev/)" target="_blank">
+  <a href="www.linkedin.com/in/lucca-pereira-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="50" alt="linkedin logo"  />
   </a>
 </div>
