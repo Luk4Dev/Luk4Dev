@@ -90,6 +90,24 @@
 
 ###
 
+<br clear="both">
+
+<h2 align="left">✍️ Most Used Languages ✍️</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucca&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left"></h3>
+
+###
+
 <h2 align="left">🎵 Spotify 🎵</h2>
 
 ###
